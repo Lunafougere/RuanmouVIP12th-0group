@@ -11,6 +11,7 @@ namespace ConsoleClient
         {
 
             Console.WriteLine("Hello World");
+            Console.WriteLine("Lunafougere");
         }
     }
 }
